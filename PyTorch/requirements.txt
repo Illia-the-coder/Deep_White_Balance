@@ -1,0 +1,13 @@
+
+torch
+torchvision
+cuda-python
+tensorboard
+numpy
+pillow
+future
+tqdm
+matplotlib
+scipy
+scikit-learn
+gradio
